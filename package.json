@@ -1,0 +1,23 @@
+{
+  "name": "cypress-chatbot-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriargn/cypress-chatbot-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriargn/cypress-chatbot-testing/issues"
+  },
+  "homepage": "https://github.com/victoriargn/cypress-chatbot-testing#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.1.0"
+  }
+}
